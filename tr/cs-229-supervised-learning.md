@@ -12,7 +12,9 @@
 
 **3. Given a set of data points {x(1),...,x(m)} associated to a set of outcomes {y(1),...,y(m)}, we want to build a classifier that learns how to predict y from x.**
 
-&#10230; {y(1),...,y(m)} çıktı kümesi ile ilişkili olan {x(1),...,x(m)} veri noktalarının kümesi göz önüne alındığında, y'den x'i nasıl tahmin edebileceğimizi öğrenen bir sınıflandırıcı tasarlamak istiyoruz. 
+&#10230; {y(1),...,y(m)} çıktı veri kümesi (Bagımlı degişken) ile ilişkili olan {x(1),...,x(m)} (Bağımsız Değişken)girdi veri noktaları kümesi göz önüne alındığında, y'den x'i nasıl tahmin edebileceğimizi öğrenen bir sınıflandırıcı tasarlamak istiyoruz. 
+
+bir stokastik model: y =b0 +b1x + e
 
 <br> 
 
